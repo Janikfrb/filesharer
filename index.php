@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Wait a Moment...</title>
 <meta http-equiv="refresh" content="5;url=/lselect/">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Test">
 <meta property="og:url" content="https://filesharer.ga">
